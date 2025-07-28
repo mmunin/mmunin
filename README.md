@@ -8,7 +8,8 @@
 🎓 Applied Computer Science student · certified software developer  
 👨‍💻 Java · Python  
 🔍 Embedded systems: Arduino · Raspberry Pi · low-level coding  
-🌍 Germany · working globally on open-source & academic tech
+🌍 Germany · working globally on open-source & academic tech  
+💬 Ask me about <a href="https://github.com/mmunin/mmunin/issues">here</a>
 <br><br>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mmunin.mmunin&"  />
