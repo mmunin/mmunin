@@ -6,7 +6,7 @@
 <br>
 
 🎓 Applied Computer Science student · certified software developer  
-👨‍💻 Java · Python  
+👨‍💻 Java · Python · C#  
 🔍 Embedded systems: Arduino · Raspberry Pi · low-level coding  
 🌍 Germany · working globally on open-source & academic tech  
 💬 Ask me about <a href="https://github.com/mmunin/mmunin/issues">here</a>
