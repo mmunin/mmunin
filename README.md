@@ -26,6 +26,14 @@
 ![Mmunin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmunin&show_icons=true)
 Here are some ideas to get you started:
 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/CSS-informational?style=flat&color=informational&logo=css3)
+![](https://img.shields.io/badge/HTML-informational?style=flat&color=informational&logo=html5)
+![](https://img.shields.io/badge/MySql-informational?style=flat&color=black&logo=mysql)
+![](https://img.shields.io/badge/GIT-informational?style=flat&color=informational&logo=git)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&color=informational&logo=github)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently studying computer science
 - 👯 I’m looking to collaborate on ...
